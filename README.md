@@ -16,6 +16,7 @@ I'm passionate about coding and creating innovative solutions. Here's a bit abou
 - **Mobile:** Android Development (Kotlin)
 - **Data:** Data Structures and Algorithms, Machine Learning
 
+<!---
 ## 🛠️ Projects
 
 Here are some of the projects I've been working on:
@@ -25,6 +26,7 @@ Here are some of the projects I've been working on:
 - [Project 3](link-to-project3): Short description
 
 Feel free to explore my repositories to find more interesting projects!
+--->
 
 ## 🌐 Connect with Me
 
