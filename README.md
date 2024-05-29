@@ -1,4 +1,4 @@
-# Hi there, I'm Pranshu Bhadhani! 👋
+# Hi there, I'm Pranshu Badhani! 👋
 
 I'm passionate about coding and creating innovative solutions. Here's a bit about me:
 
