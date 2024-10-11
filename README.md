@@ -12,8 +12,8 @@ I'm passionate about coding and creating innovative solutions. Here's a bit abou
 ## 🚀 Skills and Technologies
 
 - **Languages:** Java, Python, JavaScript
-- **Web:** HTML, CSS, React
-- **Mobile:** Android Development (Kotlin)
+- **Web:** HTML, CSS, React, Flask
+- **Mobile:** Android Development (React Native)
 - **Data:** Data Structures and Algorithms, Machine Learning
 
 <!---
